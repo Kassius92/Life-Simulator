@@ -1,2 +1,2 @@
-# Life-Simulator
+index.html
 Prove game
